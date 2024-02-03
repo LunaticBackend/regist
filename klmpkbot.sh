@@ -20,7 +20,7 @@ wget https://raw.githubusercontent.com/LunaticBackend/regist/main/regis.zip
 unzip regis.zip
 rm -rf regis.zip
 pip3 install -r regis/requirements.txt
-pip3 install pillow
+#pip3 install pillow
 
 #isi data
 echo ""
